@@ -89,7 +89,7 @@ export interface PortfolioData {
       title: 'Talk2db',
       description: 'AI-powered MongoDB database assistant',
       tech: ['ReactJS', 'TypeScript', 'Springboot','LLM Integration(GroqCloud)', 'MongoDB'],
-      link: '#',
+      link: 'https://talk2db.netlify.app/',
     },
     {
       id: 'proj-3',
